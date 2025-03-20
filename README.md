@@ -15,5 +15,5 @@ Hi, I'm [Your Name]! Passionate about AI, automation, and cutting-edge technolog
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHub&show_icons=true&theme=radical)  
 
 ## 📫 Let's Connect!  
-🔹 **Email:** [your.email@domain.com](mailto:your.email@domain.com)  
-🔹 **Website:** [yourwebsite.com](https://yourwebsite.com)  
+🔹 **Email:** (sagar4goswami17@gmail.com)  
+🔹 **Website:** (https://devversenexus.blogspot.com/) 
