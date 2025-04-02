@@ -2,7 +2,7 @@
 
 🚀 **AI & Full-Stack Developer | Open Source Enthusiast**  
 
-Hi, I'm [Your Name]! Passionate about AI, automation, and cutting-edge technology.  
+Hi, I'm Sagar! Passionate about AI, automation, and cutting-edge technology.  
 - 🌱 Always learning new technologies.  
 - ⚡ Building open-source AI projects.  
 
