@@ -12,7 +12,8 @@ Hi, I'm Sagar! Passionate about AI, automation, and cutting-edge technology.
 - 🔥 [NeuralScript.js](https://github.com/YourGitHub/NeuralScript.js) – AI-powered JavaScript library  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHub&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagar-Program&show_icons=true&theme=radical)
+
 
 ## 📫 Let's Connect!  
 🔹 **Email:** (sagar4goswami17@gmail.com)  
