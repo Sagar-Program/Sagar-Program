@@ -12,7 +12,17 @@ Hi, I'm Sagar! Passionate about AI, automation, and cutting-edge technology.
 - 🔥 [NeuralScript.js](https://github.com/YourGitHub/NeuralScript.js) – AI-powered JavaScript library  
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagar-Program&show_icons=true&theme=radical)
+[Custom A+ Badge](https://your-custom-image-link.com/Aplus.png)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sagar-Program&theme=algolia&row=1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🏆 GitHub Performance Grade: **A+**
+- 🚀 Productivity: High
+- 📈 Contributions: Consistent
+- ⭐️ Stars: Growing rapidly
+- 🔥 Focus: Open-source AI
+
+
 
 
 ## 📫 Let's Connect!  
